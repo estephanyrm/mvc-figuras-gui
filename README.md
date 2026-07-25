@@ -2,6 +2,9 @@
 
 Aplicación en Python que permite crear y gestionar figuras geométricas (definidas por puntos) sobre un lienzo, implementada con el patrón de diseño **Modelo-Vista-Controlador (MVC)**. El proyecto soporta dos modos de ejecución: **consola** y **interfaz gráfica (Tkinter)**, ambos reutilizando el mismo modelo de datos.
 
+## Demo
+![Demo del programa](assets/demo.gif)
+
 ## Características
 
 - Arquitectura MVC completa y desacoplada (`model`, `view`, `controller`).
@@ -40,8 +43,6 @@ mvc-figuras-gui/
 │   ├── demo.gif
 
 ```
-## Demo
-![Demo del programa](assets/demo.gif)
 
 ## Instalación
 
